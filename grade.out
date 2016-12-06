@@ -1,0 +1,35 @@
+Grading cs320assignment2 for taylor ewertz, taylorewertz219
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
+#############################################################
+Cloning repository
+
+#############################################################
+Looking for files
+[ Pass ] Looking for file prog2_1.sh...
+[ Pass ] Looking for file prog2_2.sh...
+[ Pass ] Looking for file prog2_3.sh...
+
+#############################################################
+Executing Tests
+[ Pass ] Grading grade_prog2_1.sh
+[ Pass ] Grading grade_prog2_2.sh
+[ Pass ] Grading grade_prog2_3.sh
+-------------------------
+Correct 3/3
+
+#############################################################
+Extra Credit
+Found 3/3
+[ Fail ] Looking for extra credit prog2_4.sh...
+[ Fail ] Testing Extra Credit grade_prog2_4.sh
+Program Correctness: 60.0
+Documentation: 20
+README.md: 10
+Submission: 10
+------------------
+Total: 100.0
+
+Submitting Grade

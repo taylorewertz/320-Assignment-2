@@ -1,0 +1,6 @@
+chmod: cannot access 'prog2_4.sh': No such file or directory
+Program Execution: ./prog2_4.sh prog2_1.sh 'taylor' 'Other'
+---------------------------
+./grade_prog2_4.sh: line 8: ./prog2_4.sh: No such file or directory
+---------------------------
+!!!!!!!!!! Output failure
